@@ -1,11 +1,41 @@
  <!DOCTYPEhtml>
- <html lang="en">
-  <head>
-      <link rel="stylesheet" href="styles.css">
+<html lang="en"><head>
     <meta charset="UTF-8">
-    <nav class="main-nav">
-      <style>
-      </style>
-</head>
-   <body>
-   </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to my twisted mind</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Open+Sans:wght@400;600&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="chrome-extension://5878a45a-f704-47a0-b45c-3ef65b743b22/app/content-style.css"></head>
+  <body>
+    <header>
+      <h1>Welcome to my twisted mind</h1>
+      <p class="subtitle">Master of point-and-click gaming</p>
+    </header>
+
+    <main>
+      <section class="myintro">
+        <img src="https://jamesroddie.com/wp-content/uploads/2024/11/pine-martens-black-isle.jpg?w=420" alt="Pine Martens" class="twer">
+        <div class="bio">
+          <h2>Here be martens</h2>
+          <p>Do you like gaming? I like gaming. Come on down to Liko's Gaming Emporium where you can game for all the times you would like! Sportsball? Rollerplaying? Gambling? Hit masterpiece Tangle Tower? If you want it, we have it!</p>
+          <p>Would you kill a man for some good games? We have you covered! Just try our "Murdermayhem guy simulator", and you'll be feeling the thrill of the kill in no time!</p>
+        </div>
+      </section>
+
+      <section class="skills">
+        <h2>What am I good at?</h2>
+        <ol>
+          <li>Saying the same joke over and over again</li>
+          <li>Playing Tangle Tower on repeat for different people</li>
+          <li>Differentiating types of mustelids</li>
+<li>Getting ragebaited by children's games</li>
+        </0l>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2026 Azrael Mauck</p>
+    </footer>
+</body>
+</html>
